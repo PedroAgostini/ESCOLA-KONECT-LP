@@ -1,0 +1,33 @@
+{
+  "mode": "Built-in image_gen",
+  "assets": [
+    {
+      "name": "ingles-hero",
+      "prompt": "Use case: photorealistic-natural. Asset type: English course landing-page hero, landscape 3:2. Create one cinematic editorial photograph of three Brazilian young adults aged 20-30 naturally practicing a conversation around a table with notebooks in a modest welcoming language classroom. Main people grouped in the RIGHT half, left third softly blurred dark blue classroom wall with ample negative space for webpage headline. Candid expressions, one woman speaking and a man listening, authentic skin texture, no exaggerated advertising smiles. Warm natural window light against muted blue walls, black and subtle warm red accents. High quality natural photography, 35mm lens. Keep faces in upper right center for responsive crops. This is an illustrative scene, not a depiction of specific actual students or facilities. No text, logos, watermarks, flags, montage, or split panels."
+    },
+    {
+      "name": "ingles-trabalho",
+      "prompt": "Use case: photorealistic-natural. Asset type: vertical 4:5 editorial photograph for English-course career card. Three young Brazilian adult professionals at a small contemporary office table, a confident dark-haired woman explaining an idea to two attentive colleagues, laptop and notebook, unposed genuine moment, modest office with blue-gray walls and window light. Waist-up medium shot, faces grouped in upper two-thirds, bottom fifth free of important details for webpage captions. Refined cinematic photography, natural skin, restrained warm colors. No readable text, no brand logos, no flags, no watermarks. Illustrative scene, not actual school students."
+    },
+    {
+      "name": "ingles-viagem",
+      "prompt": "Use case: photorealistic-natural. Asset type: vertical 4:5 travel photograph for an English-course landing page. Brazilian adult woman with curly dark hair seen in three-quarter profile at a bright international airport terminal, wearing a muted rust jacket and a small backpack, holding a passport closed without readable text, cabin suitcase beside her, looking confidently toward departure gates; glass walls and a passenger aircraft outside softly out of focus. Cinematic but authentic natural daylight, navy and warm neutral palette. Subject in upper two thirds, room below for website subtitle. No readable signage, no flags, no logos, no watermark. Single coherent photograph."
+    },
+    {
+      "name": "ingles-estudo",
+      "prompt": "Use case: photorealistic-natural. Asset type: vertical 4:5 editorial photograph for an English-course study card. Brazilian young adult woman with medium-brown skin, simple wired headphones, studying at a wooden desk beside a window, attentive thoughtful expression, laptop with softly blurred article, open book and handwritten notebook with indistinct writing, hand holding pen naturally. Realistic skin and hands, restrained warm light with a blue-gray background, ordinary welcoming study space. Frame face in upper half and desk below, bottom fifth available for page captions. No readable text, logos, watermark or split panels. Illustrative educational photograph."
+    },
+    {
+      "name": "ingles-conexoes",
+      "prompt": "Use case: photorealistic-natural. Asset type: vertical 4:5 English learning landing-page card about confidence and human connections. Candid editorial photograph of four adult friends of diverse Brazilian backgrounds, aged mid twenties, two women and two men, chatting together outdoors on a sunlit city park overlook in late afternoon. Medium shot, relaxed natural laughter, simple casual clothes in navy, warm cream and muted terracotta, warm natural skin, soft urban greenery behind. Composition holds faces in upper half, open area at bottom for webpage subtitle. Cinematic natural photography, no overly perfect models, no text, flags, logos or watermarks. Illustrative scene."
+    },
+    {
+      "name": "ingles-aula",
+      "prompt": "Use case: photorealistic-natural. Asset type: landscape 3:2 wide course-method banner for English-course landing page. A Brazilian adult female language teacher sitting at a shared classroom table with three adult learners, listening attentively as one learner explains something with a natural hand gesture; open notebooks and books on table. Modest bright classroom with white walls and a muted blue accent wall, no elaborate facilities. Candid documentary photographic style, daylight, believable hands and faces. Subjects centered slightly right, upper third simple wall, lower left softly shadowed table, suitable for dark gradient text overlay. No readable writing, logos, flags or watermarks. Illustrative imagined learning scene, not documentation of actual students or a particular school."
+    },
+    {
+      "name": "impressao-pecas",
+      "prompt": "Use case: product-mockup. Asset type: landscape 4:3 illustrative photograph for 3D printing course gallery. Meticulously realistic tabletop still life of three small FDM 3D printed objects: a matte red spiral vase, a muted blue simple spur gear with central bore lying flat, and a warm white small architectural house massing model. Clear visible fine horizontal layer lines, realistic PLA plastic texture, objects separated neatly on an off-white workbench with subtle engineering grid paper, ordinary workshop blue-gray background out of focus, gentle window side-light. Close up at tabletop three-quarter angle, restrained editorial product photography, accurate physical construction, no people, no text, no logo, no watermark. Examples of printing possibilities, not claimed student work."
+    }
+  ]
+}

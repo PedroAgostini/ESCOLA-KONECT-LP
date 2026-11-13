@@ -1,0 +1,14 @@
+# Ferramentas de design (rascunhos, capturas de revisão)
+.impeccable/
+
+# Vídeo bruto da escola (fonte de 18 MB; os cortes usados estão em assets/video/)
+assets/escola.mp4
+
+# PNGs originais das imagens geradas
+_docs/media/originais/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
