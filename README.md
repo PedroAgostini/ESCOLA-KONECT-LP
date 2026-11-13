@@ -7,7 +7,7 @@
 **Páginas de captação dos cursos de Impressão 3D e Inglês.**
 HTML estático, sem build, pronto para subir em qualquer hospedagem Apache.
 
-[![Site](https://img.shields.io/badge/lp.escolakonectsorocaba.com.br-E5120B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lp.escolakonectsorocaba.com.br)
+[![Site](https://img.shields.io/badge/lp.escolakonectsorocaba.com-E5120B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lp.escolakonectsorocaba.com)
 ![HTML5](https://img.shields.io/badge/HTML5-0B0B0C?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0B0B0C?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Three.js](https://img.shields.io/badge/Three.js-0B0B0C?style=for-the-badge&logo=threedotjs&logoColor=white)
@@ -24,7 +24,7 @@ HTML estático, sem build, pronto para subir em qualquer hospedagem Apache.
 <td width="50%" valign="top">
 
 ### 🖨️ Curso de Impressão 3D
-**[`/impressao-3d/`](https://lp.escolakonectsorocaba.com.br/impressao-3d/)**
+**[`/impressao-3d/`](https://lp.escolakonectsorocaba.com/impressao-3d/)**
 
 <img src="assets/img/og-impressao-3d.jpg" alt="Prévia da LP de Impressão 3D">
 
@@ -39,7 +39,7 @@ Um caderno quadriculado onde a ideia é traço de caneta azul e o objeto real sa
 <td width="50%" valign="top">
 
 ### 🎬 Curso de Inglês
-**[`/ingles/`](https://lp.escolakonectsorocaba.com.br/ingles/)**
+**[`/ingles/`](https://lp.escolakonectsorocaba.com/ingles/)**
 
 <img src="assets/img/og-ingles.jpg" alt="Prévia da LP de Inglês">
 
@@ -90,7 +90,7 @@ python -m http.server 8080
 
 ## Publicação
 
-Envie para a raiz do subdomínio **`lp.escolakonectsorocaba.com.br`**:
+Envie para a raiz do subdomínio **`lp.escolakonectsorocaba.com`**:
 
 ```text
 .htaccess  .well-known/  404.html  favicon.ico  robots.txt  sitemap.xml

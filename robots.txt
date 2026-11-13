@@ -6,4 +6,4 @@ Allow: /assets/
 Disallow: /_docs/
 Disallow: /404.html
 
-Sitemap: https://lp.escolakonectsorocaba.com.br/sitemap.xml
+Sitemap: https://lp.escolakonectsorocaba.com/sitemap.xml

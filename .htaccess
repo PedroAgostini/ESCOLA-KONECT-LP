@@ -1,6 +1,6 @@
 # =====================================================================
 #  Escola Konect Sorocaba · Landing pages
-#  https://lp.escolakonectsorocaba.com.br
+#  https://lp.escolakonectsorocaba.com
 #  Apache 2.4 (mod_rewrite, mod_headers, mod_deflate, mod_expires)
 # =====================================================================
 
@@ -25,7 +25,7 @@ ErrorDocument 404 /404.html
   # --- Host canônico (exceto ambiente local) -------------------------
   RewriteCond %{HTTP_HOST} !^lp\.escolakonectsorocaba\.com\.br$ [NC]
   RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)(:[0-9]+)?$ [NC]
-  RewriteRule ^ https://lp.escolakonectsorocaba.com.br%{REQUEST_URI} [L,R=301]
+  RewriteRule ^ https://lp.escolakonectsorocaba.com%{REQUEST_URI} [L,R=301]
 
   # --- Força HTTPS (compatível com proxy/CDN) ------------------------
   RewriteCond %{HTTPS} off

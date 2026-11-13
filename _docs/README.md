@@ -1,6 +1,6 @@
 # Landing pages · Escola Konect Sorocaba
 
-Domínio: https://lp.escolakonectsorocaba.com.br
+Domínio: https://lp.escolakonectsorocaba.com
 
 | URL | Arquivo |
 |---|---|
